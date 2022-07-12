@@ -14,7 +14,23 @@ Tenho 1 ano de curso técnico em Desenvolvimento de Sistemas com o uso de divers
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alinerock&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alinerock&show_icons=true&theme=tokyonight)
+
+# Projetos
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alinerock&repo=Testando.github.io)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alinerock&repo=Tecnico_1Mod)
+
+<!--
+# Contato
+
+[<img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">](linkedin.com/in/aline)
+-->
+
+
+
+
 
 <!--
 **Alinerock/Alinerock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
